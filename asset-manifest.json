@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Lesson-Site/static/css/main.0c494a01.chunk.css",
-    "main.js": "/Lesson-Site/static/js/main.070b33b9.chunk.js",
-    "main.js.map": "/Lesson-Site/static/js/main.070b33b9.chunk.js.map",
+    "main.js": "/Lesson-Site/static/js/main.dd9c42a8.chunk.js",
+    "main.js.map": "/Lesson-Site/static/js/main.dd9c42a8.chunk.js.map",
     "runtime-main.js": "/Lesson-Site/static/js/runtime-main.8443ce04.js",
     "runtime-main.js.map": "/Lesson-Site/static/js/runtime-main.8443ce04.js.map",
     "static/js/2.c9b33a00.chunk.js": "/Lesson-Site/static/js/2.c9b33a00.chunk.js",
     "static/js/2.c9b33a00.chunk.js.map": "/Lesson-Site/static/js/2.c9b33a00.chunk.js.map",
     "index.html": "/Lesson-Site/index.html",
-    "precache-manifest.108ddde23de13f5b77594ef9d4a0e5ad.js": "/Lesson-Site/precache-manifest.108ddde23de13f5b77594ef9d4a0e5ad.js",
+    "precache-manifest.67db35fd151038b3c9557372022de13a.js": "/Lesson-Site/precache-manifest.67db35fd151038b3c9557372022de13a.js",
     "service-worker.js": "/Lesson-Site/service-worker.js",
     "static/css/main.0c494a01.chunk.css.map": "/Lesson-Site/static/css/main.0c494a01.chunk.css.map",
     "static/js/2.c9b33a00.chunk.js.LICENSE.txt": "/Lesson-Site/static/js/2.c9b33a00.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8443ce04.js",
     "static/js/2.c9b33a00.chunk.js",
     "static/css/main.0c494a01.chunk.css",
-    "static/js/main.070b33b9.chunk.js"
+    "static/js/main.dd9c42a8.chunk.js"
   ]
 }
